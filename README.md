@@ -1,2 +1,2 @@
 # resume
-my resume in website format
+Updated as of 6/19/2024
